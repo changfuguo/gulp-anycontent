@@ -1,0 +1,25 @@
+{
+  "name": "gulp-anycontent",
+  "version": "1.0.1",
+  "description": "process any content in the pipe",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/changfuguo/gulp-anycontent.git"
+  },
+  "keywords": [
+    "process",
+    "content",
+    "by",
+    "youself"
+  ],
+  "author": "changfuguo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/changfuguo/gulp-anycontent/issues"
+  },
+  "homepage": "https://github.com/changfuguo/gulp-anycontent"
+}
